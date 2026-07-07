@@ -3,9 +3,9 @@
 A lightweight, powerful command-line interface (CLI) notebook application built purely with Python. Designed for developers and power users who prefer logging thoughts, tracking development tasks, or maintaining a personal stream of consciousness directly from the terminal without leaving the keyboard.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e84fa62-53d9-49fc-9d0b-fa047a2ea28d" alt="CLI Notes Preview" width="500">
-  <img src="https://github.com/user-attachments/assets/4c6ac338-502f-4d07-8ccc-1f76476ae1cc" alt="CLI Notes Preview" width="500">
-  <img src="https://github.com/user-attachments/assets/dfb5d4dd-95cf-46a8-8f3e-93154f1ccf6a" alt="CLI Notes Preview" width="500">
+  <img src="https://github.com/user-attachments/assets/8e84fa62-53d9-49fc-9d0b-fa047a2ea28d" alt="CLI Notes Preview" width="200">
+  <img src="https://github.com/user-attachments/assets/4c6ac338-502f-4d07-8ccc-1f76476ae1cc" alt="CLI Notes Preview" width="200">
+  <img src="https://github.com/user-attachments/assets/dfb5d4dd-95cf-46a8-8f3e-93154f1ccf6a" alt="CLI Notes Preview" width="200">
 </p>
 
 ## 🚀 Features
