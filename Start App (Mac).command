@@ -5,9 +5,9 @@
 
 cd "$(dirname "$0")" || exit 1
 
-echo "========================================"
-echo "  CLI Notes Archive - Startup Script"
-echo "========================================"
+echo "================================================================"
+echo "  CLI Notes Archive - Startup Script (Was made by Oleh Datsyk)"
+echo "================================================================"
 echo
 
 fail() {

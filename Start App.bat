@@ -3,9 +3,9 @@ setlocal enabledelayedexpansion
 title CLI Notes Archive - Launcher
 cd /d "%~dp0"
 
-echo ========================================
-echo   CLI Notes Archive - Startup Script
-echo ========================================
+echo ================================================================
+echo   CLI Notes Archive - Startup Script (Was made by Oleh Datsyk)
+echo ================================================================
 echo.
 
 REM --- Step 1: Verify Python is installed ---
